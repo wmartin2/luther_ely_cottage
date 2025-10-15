@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document [
+<!ENTITY frac14 "&#xBC;">
+ <!--ENTITY frac13 "&#x2153;"-->
+  <!ENTITY frac13 "1/3">
+ <!ENTITY eacute "&#x00E9;">
+ <!ENTITY frac12 "&#xBD;">
+ <!--ENTITY frac23 "&#8532;"-->
+  <!ENTITY frac23 "2/3">
+  <!ENTITY frac34 "&#x00BE;">
+  <!ENTITY ldquo "&#x201C;">
+   <!ENTITY rdquo "&#x201D;">
+]>
+<botantical xmlns:bibtex="http://bibtexml.sf.net/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:wtm="http://wtm.cornell.edu"
+    xmlns="http://wtm.cornell.edu" xml:id="botanticalstudy">
+
+    <metadata class="main">
+        <mods xmlns="http://www.loc.gov/mods/v3" version="3.3">
+            <titleInfo xml:id="botanicaltitle" class="maintitle">
+                <title>Botanical Survey of Ely Lake</title>
+            </titleInfo>
+
+            <abstract displayLabel="Content description">
+                <wtm:p> This section details a botanical and ecological survey conducted at Ely
+                    Lake over four days in August, 2019 by Timothy A. Block, University of Pennsylvania. ​ </wtm:p>
+                <wtm:itemize>
+                    <wtm:item> The lake is characterized as a natural glacial kettle-hole lake with
+                        a pH range of 8.5 to 8.8, indicating alkalinity. ​ </wtm:item>
+                    <wtm:item> Limited plant diversity is noted, with a predominance of emergent and
+                        floating-leaf species, and no nonnative aquatic plants observed. 
+                    </wtm:item>
+                    <wtm:item>The survey
+                        lists various native and introduced plant species, emphasizing the
+                        ecological importance of the lake despite its low species diversity.
+                    </wtm:item>
+                </wtm:itemize>
+            </abstract>
+        </mods>
+    </metadata>
+
+    <page n="1">
+        <p class="title" xml:id="botanical">Botanical Survey of Ely Lake, Susquehanna County, PA in 2019, July 9-10 and August 15-16. </p>
+        <p>Timothy A. Block, Ph.D., the John J. Willaman Chair of Botany, Morris Arboretum of the
+            University of Pennsylvania. </p>
+        <p class="first"><span class="first">It was my privilege</span> to be invited to Ely Lake by
+            Anne Wain for the purpose of conducting a botanical and ecological survey. Anne
+            graciously coordinated obtaining permissions from all of the lake's landowners for
+            access and specimen collecting activities. My sincere thanks to Anne and all the Ely
+            family folks with whom I shared a wonderful meal and much great conversation. Also, many
+            thanks to Eileen Head who coordinated access to Camp Archbald and arranged for my use of
+            one of their boats. </p>
+        <p>Ely Lake is quite remarkable for its physical and ecological parameters, yet possessed of
+            somewhat limited plant diversity. This, as noted below, is perfectly normal, indeed
+            quite favorable, for a lake with Ely's characteristics. </p>
+        <p>In spite of the lowering of the water level in the 1890s to regulate water flow to a
+            carding mill downstream on the outlet, Ely Lake retains much of the character of a
+            natural glacial kettle-hole lake. The consistency of steep slopes into the water
+            suggests that Ely Lake has existed in close to its current configuration since its
+            formation approximately 16,000 to 17,000 years ago at the end of the Wisconsinan
+            Glaciation. Most glacial kettle-holes are characterized by significant sediment
+            infilling over time, resulting in an ecological transition to bog, and ultimately return
+            to forest. This natural successional process appears almost completely arrested at Ely
+            Lake. </p>
+        <p>Although far from a conclusive analysis, a handheld pH meter registered readings of 8.5
+            to 8.8 at several spots at the surface of the lake. These readings place Ely Lake near
+            the alkaline end of the pH range (typically 4.5 to 9.0) for lakes in northeast
+            Pennsylvania. Most natural glacial lakes register pH readings of 6.0 or lower, often
+            much lower, meaning that they are acidic. The higher pH of Ely Lake, and others like it,
+            is generally due to influx of water (springs) that has moved through calcite-rich strata
+            in the Catskill Formation (or, perhaps, Huntley Mountain Formation) that underlies this
+            region of Pennsylvania. Large pieces of rock, testing positive for calcite content, were
+            found in the streambed of the outlet stream in August 2019. The full geological
+            explanation for this phenomenon is well beyond the scope of these notes. The botanical
+            upshot of the alkalinity of Ely Lake is that high pH limits the number and types of
+            aquatic plant species that can live there. </p>
+        <p>As noted above, most of the shoreline is steep-sided leaving relatively little shallow
+            substrate for inhabitance by plant species that require water depths of about three
+            feet, or less. Another physical limitation to the lake area available for plant
+            colonization is the prevalence of overhanging tree canopy around much of the lake
+            margin. Aquatic plants often germinate in the shade, but rarely survive to adulthood. </p>
+        <p>The lake is nearly continuously ringed by a narrow band of emergent species dominated by
+                <plant profile="POCO14">pickerelweed</plant> (Pontederia cordata), <plant
+                profile="SPAM">bur-reed</plant> (Sparganium americanum), and <plant profile="DUAR3"
+                >threeway sedge</plant> (<plantsci profile="DUAR3">Dulichium orundiaceum</plantsci>)
+            nearer the shore, and another relatively narrow band of floating-leaf plants variously
+            dominated by <plant profile="NYOD">white waterlily</plant> (Nymphaea odorata), <plant
+                profile="BRSC">watershield</plant> (Brasenia schreberi), and <plant profile="NULUV"
+                >spatterdock</plant> (Nuphar variegata) beyond. This superficially appears to
+            represent the classic aquatic vegetation zonation pattern, with the exception of the
+            fact that there is almost no zone of submergent plant species beyond the floating-leaf
+            species due to the rapid drop-off of the substrate to depths of 10 feet or more. At
+            least four species of <plant profile="POBI9">pondweeds</plant> (Potamogeton spp.) were
+            collected in relatively shallow water in openings of the canopy of the floating-leaf
+            species above. Most significant of these is <plant profile="PORO2">Robbin's
+                pondweed</plant> (Potamogeton robbinsi) which is listed as Pennsylvania Rare (PR) by
+            the Pennsylvania Natural Diversity Inventory. Three other Potamogeton species collected
+            remain to be identified. No non-native aquatic plant species were observed.</p>
+    </page>
+    <page n="2">
+        <p> In spite of the fact that Ely Lake has somewhat limited plant species diversity, this in
+            no way diminishes the biological or ecological importance of this very special body of
+            water. People sometimes mistakenly equate low species diversity with &ldquo;less
+            important&rdquo; ecosystems. Nothing could be further from true! Proper evaluation of
+            ecosystems rests on functionality, not species diversity. It appears to me that the
+            aquatic system at Ely Lake exists (and has for a long time) in a relatively steady
+            state. </p>
+        <p> It is of utmost importance to continue to limit outside access to the lake, especially
+            the use of outside watercraft which are often vectors for the introduction of non-native
+            species of plants and other organisms. I also strongly recommend limiting any
+            disturbance near the shoreline. Seeds and other plant propagules often reach the water
+            by surface flow across unvegetated areas. </p>
+        <p> Although not comprehensive, the following table lists the species observed in the July
+            and August, 2019 visits to Ely Lake and its immediate environs. </p>
+        <menu>Botanical Report</menu>
+        <table id="botanical" latex="llll" menu="Botanical Report" xml:id="botanical">
+            <caption>Plant species observed at Ely Lake, July and August, 2019</caption>
+            <thead>
+                <tr>
+                    <th>Species</th>
+                    <th>Common name</th>
+                    <th>Growth habit</th>
+                    <th>Nativity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr profile="ACRU" photo="003_shp">
+                    <td>Acer rubrum</td>
+                    <td>red maple</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="ALSU" photo="002_shp">
+                    <td>Alisma subcordatum</td>
+                    <td>water-plantain</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="AMAR3" photo="001_shp">
+                    <td>Amelanchier arborea</td>
+                    <td>shadbush</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="BEAL2">
+                    <td>Betula allegheniensis</td>
+                    <td>yellow birch</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="BELE">
+                    <td>Betula lenta</td>
+                    <td>sweet birch</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="BOCY">
+                    <td>Boehemeria cylindrica</td>
+                    <td>false nettle</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="BRSC">
+                    <td>Brasenia schreberi</td>
+                    <td>watersheild</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="CAGY4">
+                    <td>Carex gynandra</td>
+                    <td>sedge</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="CACA18">
+                    <td>Carpinus caroliniana</td>
+                    <td>hop hornbeam</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="CIMA2">
+                    <td>Cicuta maculata</td>
+                    <td>water hemlock</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="CIAR2">
+                    <td>Cinna arundinacea</td>
+                    <td>wood reedgrass</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="COAM2">
+                    <td>Cornus ammomum</td>
+                    <td>silky dogwood</td>
+                    <td>shrub</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="CORA6">
+                    <td>Cornus racemosa</td>
+                    <td>gray dogwood</td>
+                    <td>shrub</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="DUAR3">
+                    <td>Dulichium arundinaceum</td>
+                    <td>three-way sedge</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="ELAC">
+                    <td>Eleocharis acicularis</td>
+                    <td>needle spike-rush</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="ELPA3">
+                    <td>Eleocharis palustris</td>
+                    <td>creeping spike-rush</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="FAGR">
+                    <td>Fagus grandifolia</td>
+                    <td>American beech</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="HAVI4">
+                    <td>Hamamelis virginiana</td>
+                    <td>witchhazel</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="IMCA">
+                    <td>Impatiens capensis</td>
+                    <td>touch-me-not</td>
+                    <td>herbaceous annual</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="IRVIS">
+                    <td>Iris versicolor</td>
+                    <td>blue iris</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="ISOET">
+                    <td>Isoetes sp.</td>
+                    <td>quillwort</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="JUEF">
+                    <td>Juncus effusus</td>
+                    <td>soft rush</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="KALA">
+                    <td>Kalmia latifolia</td>
+                    <td>mountain laurel</td>
+                    <td>shrub</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="LEOR">
+                    <td>Leersia oryziodes</td>
+                    <td>rice cutgrass</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="LIBE3">
+                    <td>Lindera benzoin</td>
+                    <td>spicebush</td>
+                    <td>shrub</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="LOCA2">
+                    <td>Lobelia cardinalis</td>
+                    <td>cardinal flower</td>
+                    <td>herbaceous perennia</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="LUPA">
+                    <td>Ludwigia palustris</td>
+                    <td>water-purslane</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="LYAM">
+                    <td>Lycopus sp.</td>
+                    <td>water horehound</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="LYNU">
+                    <td>Lysimachia nummularia</td>
+                    <td>moneywort</td>
+                    <td>herbaceous annual</td>
+                    <td>Introduced</td>
+                </tr>
+                <tr profile="LYTE2">
+                    <td>Lysimachia terrestris</td>
+                    <td>swamp candles</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="MIRE">
+                    <td>Mitchella repens</td>
+                    <td>partridge berry</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="NAGR">
+                    <td>Najas gracillima</td>
+                    <td>slender water niad</td>
+                    <td>herbaceous annual</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="NULUV">
+                    <td>Nuphar variegata</td>
+                    <td>spatterdock</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="NYODO">
+                    <td>Nymphaea odorata</td>
+                    <td>fragrant water-lily</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="ONSE">
+                    <td>Onoclea sensibilis</td>
+                    <td>sensitive fern</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="OSCL2">
+                    <td>Osmunda claytoniana</td>
+                    <td>interrupted fern</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="OSCI">
+                    <td>Osmunda cinnamomea</td>
+                    <td>cinnamon fern</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="PIST">
+                    <td>Pinus strobus</td>
+                    <td>white pine</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="POBI9">
+                    <td>Potamogeton bicupulatus</td>
+                    <td>pondweed</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="POEP2">
+                    <td>Potamogeton epihydrus</td>
+                    <td>ribbonleaf pondweed</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="POPU7">
+                    <td>Potamogeton pusillus</td>
+                    <td>pondweed</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="PORO2">
+                    <td>Potamogeton robbinsii</td>
+                    <td>Robbins' pondweed</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="POCO14">
+                    <td>Pontederia cordata</td>
+                    <td>pickerelweed</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="PRSES">
+                    <td>Prunus serotina</td>
+                    <td>wild black cherry</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="SALA2">
+                    <td>Sagittario latifolia</td>
+                    <td>arrowhead</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="SCTA2">
+                    <td>Schoenoplectus tabernaemonta</td>
+                    <td>giant bulrush</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="SCGE2">
+                    <td>Scirpus geargianus</td>
+                    <td>bulrush</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="SODU">
+                    <td>Solanum dulcamara</td>
+                    <td>climbing bittersweet</td>
+                    <td>herbaceous perennial</td>
+                    <td>Introduced</td>
+                </tr>
+                <tr profile="SPAM">
+                    <td>Sparganium americanum</td>
+                    <td>bur-reed</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="THPA">
+                    <td>Thelypteris palustris</td>
+                    <td>marsh fern</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="TRVI2" photo="hyvi4_1h">
+                    <td>Triadenum virginicum</td>
+                    <td>swamp St. John's wort</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="TSCA"
+                    photo="https://plants.sc.egov.usda.gov/ImageLibrary/standard/tsca_002_shp.jpg">
+                    <td>Tsuga canadensis</td>
+                    <td>eastern hemlock</td>
+                    <td>tree</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="TYLA">
+                    <td>Typha latifolia</td>
+                    <td>cattail</td>
+                    <td>herbaceous perennial</td>
+                    <td>Native</td>
+                </tr>
+                <tr profile="VACO">
+                    <td>Vaccinium corymbosum</td>
+                    <td>highbush blueberry</td>
+                    <td>shrub</td>
+                    <td>Native</td>
+                </tr>
+            </tbody>
+        </table>
+    </page>
+</botantical>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document [
+<!ENTITY frac14 "&#xBC;">
+ <!--ENTITY frac13 "&#x2153;"-->
+  <!ENTITY frac13 "1/3">
+ <!ENTITY eacute "&#x00E9;">
+ <!ENTITY frac12 "&#xBD;">
+ <!--ENTITY frac23 "&#8532;"-->
+  <!ENTITY frac23 "2/3">
+  <!ENTITY frac34 "&#x00BE;">
+  <!ENTITY degree "&#xB0;">
+  
+]>
+
+<recipes xmlns:bibtex="http://bibtexml.sf.net/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:wtm="http://wtm.cornell.edu"
+    xmlns="http://wtm.cornell.edu" recipeid="cottagerecipes" menu="Cottage Recipes">
+
+    <metadata class="main">
+        <mods xmlns="http://www.loc.gov/mods/v3" version="3.3">
+            <titleInfo recipeid="cottagerecipestitle" class="maintitle">
+                <title>Favorite Cottage Recipes</title>
+            </titleInfo>
+            <abstract>
+                <p>These recipes were on various pieces of paper overflowingly stored in a folder on
+                    the inside of a kitchen cupboard door. The majority of the recipes are for high
+                    carbohydrate foods, such as pancakes, waffles, cakes, and cookies, ideal for a
+                    younger cottage population engaged outdoor activites on an unpredictable
+                    schedule. The main course recipes appear intended to serve an unpredicably large
+                    number of people, with an option for leftovers. Aside from Grandma Pier's
+                    Applesauce Cake and one of the salads, the sources of the recipes are
+                    unknown.</p>
+            </abstract>
+        </mods>
+    </metadata>
+
+
+    <recipe_index/>
+
+
+    <recipe category="Pancake" recipeid="pancakes">
+        <title>Pancakes</title>
+        <ingredients>
+            <ingredient>1 cup buttermilk </ingredient>
+            <ingredient>2 T oil </ingredient>
+            <ingredient>1 egg </ingredient>
+            <ingredient>1/2 cup whole wheat flour </ingredient>
+            <ingredient>1/2 cup white flour </ingredient>
+            <ingredient>1 t baking powder </ingredient>
+            <ingredient>1/2 t backing soda </ingredient>
+            <ingredient>1/2 t salt </ingredient>
+        </ingredients>
+    </recipe>
+
+    <recipe category="Main Course" recipeid="CountryCaptain">
+        <title>Country Captain</title>
+        <ingredients>
+            <ingredient>2 lbs boneless skinless chicken breasts or thighs;</ingredient>
+            <ingredient>1 slice bacon, minced;</ingredient>
+            <ingredient>1 tbsp. vegetable oil;</ingredient>
+            <ingredient>1 green bell pepper, chopped medium;</ingredient>
+            <ingredient>1 chopped onion;</ingredient>
+            <ingredient>1 tbsp. curry powder;</ingredient>
+            <ingredient>&frac14; tsp. cayenne pepper;</ingredient>
+            <ingredient>&frac14; tsp salt.</ingredient>
+        </ingredients>
+        <steps>
+            <step>Season chicken with salt and pepper.</step>
+            <step>Saut&#x00E9; bacon in oil over med-high heat.</step>
+            <step>Add and brown chicken, then remove to plate.</step>
+            <step> Stir in bell pepper, onion, curry powder, cayenne pepper, and salt. </step>
+        </steps>
+    </recipe>
+
+    <recipe category="Pancake" recipeid="ButterMilkPancakes">
+        <title>Pancakes</title>
+        <ingredients>
+            <ingredient>1 cup flour</ingredient>
+            <ingredient>1 tbsp. oil</ingredient>
+            <ingredient>1 egg</ingredient>
+            <ingredient>1 cup milk</ingredient>
+            <ingredient>1 tsp. salt</ingredient>
+            <ingredient>2 tbsp. sugar or honey</ingredient>
+            <ingredient>2 tsp. baking powder</ingredient>
+        </ingredients>
+    </recipe>
+    <recipe category="Pancake" recipeid="CornMealPancakes">
+        <title>Corn Meal Pancakes</title>
+        <ingredients>
+            <ingredient>1 &frac13; cups flour; </ingredient>
+            <ingredient>&frac23; cup corn meal; </ingredient>
+            <ingredient>2 tbsp. sugar</ingredient>
+            <ingredient>4 tsp. baking powder;</ingredient>
+            <ingredient>1 tsp. salt;</ingredient>
+            <ingredient>2 eggs;</ingredient>
+            <ingredient>1 &frac13; cups milk; </ingredient>
+            <ingredient>&frac14; cup oil.</ingredient>
+        </ingredients>
+        <instructions>Optional: Add &frac34; cups chopped fresh cranberries, 1 tsp. orange zest (or)
+            &frac34; cups blueberries, 1 tsp, lemon zest.</instructions>
+    </recipe>
+    <recipe category="Waffle" recipeid="OatmealWaffles">
+        <title>Oatmeal Waffles</title>
+        <ingredients>
+            <ingredient>1 &frac12; cup flour;</ingredient>
+            <ingredient>1 cup oatmeal;</ingredient>
+            <ingredient>1 tbsp. baking powder;</ingredient>
+            <ingredient>&frac12; tsp. cinnamon;</ingredient>
+            <ingredient>&frac14; tsp; salt;</ingredient>
+            <ingredient>2 eggs;</ingredient>
+            <ingredient>1 &frac12; cups milk;</ingredient>
+            <ingredient>6 tbsp. oil;</ingredient>
+            <ingredient>2 tbsp. sugar or honey.</ingredient>
+        </ingredients>
+    </recipe>
+    <recipe category="Waffle" recipeid="PopularWaffles">
+        <title>Popular Waffles</title>
+        <image src="PXL_20250830_130620301_PopularWaffles">
+            <caption>Made with buttermilk, Popular Waffles probably were. </caption>
+        </image>
+        <ingredients>
+            <ingredient>2 eggs;</ingredient>
+            <ingredient>2 cups buttermilk;</ingredient>
+            <ingredient>2 cups all purpose flour;</ingredient>
+            <ingredient>2 tsp. baking powder;</ingredient>
+            <ingredient>1 tsp. soda;</ingredient>
+            <ingredient>&frac12; tsp. salt</ingredient>
+            <ingredient>&frac12; cup plus 2 tbsp. shortening.</ingredient>
+        </ingredients>
+    </recipe>
+    <recipe category="Waffle" recipeid="Waffles2">
+        <title>Waffles</title>
+        <image src="PXL_20250830_130631847_clipped">
+            <caption>Waffles</caption>
+        </image>
+        <ingredients>
+            <ingredient>2 eggs;</ingredient>
+            <ingredient>2 cups flour;</ingredient>
+            <ingredient>&frac12; cup oil;</ingredient>
+            <ingredient>1 &frac14; cups milk;</ingredient>
+            <ingredient>1 tbsp. sugar;</ingredient>
+            <ingredient>4 tsp. baking powder;</ingredient>
+            <ingredient>&frac12; tsp. salt.</ingredient>
+        </ingredients>
+    </recipe>
+
+    <recipe category="Cookie" recipeid="RhubarbOatmealBars">
+        <title>Rhubarb Oatmeal Bars</title>
+        <image src="PXL_20250830_130717910_clipped_Rhubarb_Oatmeal_Bars">
+            <caption>Rhubarb Oatmeal Bars</caption>
+        </image>
+        <group>
+            <comment> Cook until thick. Cool slightly. </comment>
+            <ingredients>
+                <ingredient>3 cups sliced rhubarb (plus);</ingredient>
+                <ingredient>1 &frac12; cups sugar;</ingredient>
+                <ingredient>2 tbs. cornstarch;</ingredient>
+                <ingredient>&frac14; cup water;</ingredient>
+                <ingredient>1 tsp. vanilla;</ingredient>
+            </ingredients>
+        </group>
+        <group>
+            <comment>Cut butter into dry ingredients. Put &frac34; on bottom of 13x9 pan.</comment>
+            <ingredients>
+
+                <ingredient>1 cup butter;</ingredient>
+                <ingredient>&frac12; cups walnuts;</ingredient>
+                <ingredient>1 &frac12; cups oatmeal;</ingredient>
+                <ingredient>1 &frac12; cups flour;</ingredient>
+                <ingredient>1 cup brown sugar;</ingredient>
+                <ingredient>&frac12; tsp. baking soda.</ingredient>
+            </ingredients>
+        </group>
+
+        <steps>
+            <step>Pour rhubarb fillings over crust and sprinkle with remaining crust on top.</step>
+            <step>Bake at 350&degree; for 30 minutes. Cool and cut.</step>
+        </steps>
+    </recipe>
+    <recipe category="Salad" recipeid="GreensWithCroutons">
+        <title>Greens With Croutons</title>
+        <comment>From More With Less cookbook</comment>
+        <steps>
+            <step>
+                <emph>Brown in oven</emph>: 1 &frac12; cubed bread, 2 tsb. oil. </step>
+            <step><emph>Dressing (may mix in salad bowl)</emph>: <itemize>
+                    <item>2 cloves garlic, minced;</item>
+                    <item>&frac12; tsp. salt;</item>
+                    <item>&frac12; tsp. dry mustard;</item>
+                    <item>fresh ground pepper;</item>
+                    <item>2 tbs. wine vinegar;</item>
+                    <item>&frac14; cup salad oil;</item>
+                </itemize>
+                <step>5-6 cups fresh torn greens.</step>
+            </step>
+        </steps>
+    </recipe>
+    <recipe category="Sauce" recipeid="BarbequeSauce">
+        <title>Barbeque Sauce</title>
+        <ingredients>
+            <ingredient>1 onion;</ingredient>
+            <ingredient>1 tsp. salt;</ingredient>
+            <ingredient>1 tsp. chili powder;</ingredient>
+            <ingredient>8 oz. tomato sauce;</ingredient>
+            <ingredient>2 tbsp. brown sugar;</ingredient>
+            <ingredient>3 tbsp. vinegar;</ingredient>
+            <ingredient>2 tbsp. worchestershire sauce;</ingredient>
+            <ingredient>&frac12; cup ketchup;</ingredient>
+            <ingredient>1 cup water;</ingredient>
+            <ingredient>Hot pepper to taste.</ingredient>
+        </ingredients>
+    </recipe>
+    <recipe category="Cake" recipeid="GrandmaPierCake">
+        <title>Grandma Pier's Applesauce Cake</title>
+        <comment>8" x 8"; double for 13" x 9".</comment>
+        <ingredients>
+            <ingredient>&frac12; cup shortening;</ingredient>
+            <ingredient>1 cup brown sugar;</ingredient>
+            <ingredient>1 &frac12; cup flour;</ingredient>
+            <ingredient>1 tsp. baking soda;</ingredient>
+            <ingredient>1 tsp. cinnamon;</ingredient>
+            <ingredient>1 tsp. cloves;</ingredient>
+            <ingredient>1 cup applesauce;</ingredient>
+            <ingredient>1 cup raisins (optional).</ingredient>
+        </ingredients>
+        <steps>
+            <step>Mix and bake at 350&degree; for 45 mins.</step>
+        </steps>
+    </recipe>
+    <recipe category="Main Course" recipeid="ChickenCordonBleu">
+        <title>Chicken Cordon Bleu</title>
+        <comment>350 degrees 30-35 minutes.</comment>
+        <ingredients>
+            <ingredient>3 large chicken breasts cut in half length-wise.</ingredient>
+            <ingredient>12 slices of ham;</ingredient>
+            <ingredient>6 slices of cheese;</ingredient>
+            <ingredient>1 cup bread crumbs with 2 tbsp. melted butter.</ingredient>
+        </ingredients>
+        <steps>
+            <step>To cover chicken with sauce, melt 2 tbsp. butter, wisk in 2 tbsp. flour, cook 1-2
+                minutes. </step>
+            <step>Pour in 1 cup of milk, stirring constantly</step>
+            <step>Stir in 1 tsp chicken boullion and &frac12; tsp salt.</step>
+            <step>Cook until bubbled and thick.</step>
+            <step>Remove from heat.</step>
+            <step>Stir in 1 tbsp. mustard, &frac12; tsp. worcestershire sauce, &frac12; cup parmesan
+                cheese.</step>
+        </steps>
+    </recipe>
+    <recipe category="Muffin">
+        <title>Blueberry Muffins</title>
+        <comment>1 dozen; 400 degrees - 20-25 minutes.</comment>
+        <ingredients>
+            <ingredient>1 egg;</ingredient>
+            <ingredient>&frac12; cup milk;</ingredient>
+            <ingredient>&frac14; cup oil;</ingredient>
+            <ingredient>&frac12; cup sugar;</ingredient>
+            <ingredient>2 tsp. baking powder;</ingredient>
+            <ingredient>&frac12; tsp. salt.</ingredient>
+        </ingredients>
+        <comment>
+            <p>Do not over-mix</p>
+            <p>Fill muffin cups &frac23; full.</p>
+        </comment>
+    </recipe>
+    <recipe>
+        <title>Brown Rice Salad With Dijon Dressing</title>
+        <ingredients>
+            <ingredient>2 cups brown or brown and wild rice; cook as directed.</ingredient>
+            <ingredient>Sauteed vegetables, approx. 2 cups with soy sauce to taste.</ingredient>
+        </ingredients>
+
+        <steps>
+            <step>Mix rice and vegetables together.</step>
+            <step>Place hot mixture on a bed of lettuce.</step>
+            <step>Top with chpped fresh tomatoes and crumbled feta cheese.</step>
+        </steps>
+
+        <group title="Dressing:">
+            <title>Dressing</title>
+            <ingredients>
+                <ingredient>&frac34; cup oil (olive);</ingredient>
+                <ingredient>&frac12; cup red wine vinegar;</ingredient>
+                <ingredient>2 tsp. Dijon mustard; </ingredient>
+                <ingredient>&frac12; tsp. minced garlic;</ingredient>
+                <ingredient>&frac12; tsp. salt and pepper;</ingredient>
+                <ingredient>&frac14; tsp. dried thyme.</ingredient>
+            </ingredients>
+
+        </group>
+    </recipe>
+    <recipe category="Main Course">
+        <title>Teriyaki Chicken</title>
+        <ingredients>
+            <ingredient>One 3 &frac12; to 4 lb. chicken;</ingredient>
+            <ingredient>1 tsp kosher salt;</ingredient>
+            <ingredient>&frac34; tsp black pepper;</ingredient>
+            <ingredient>&frac12; cup teriyaki sauce.</ingredient>
+        </ingredients>
+        <steps>
+            <step>Heat oven to 400 degrees</step>
+            <step>Place chicken in a eoasting pan. Drizzle with 1/4 cup teriyaki, salt \&amp;
+                &frac12; tsp. pepper. Turn to coat.</step>
+            <step>Roast for 30 min. Drizzle with 1 1/4 cup sauce \&amp; cook for 15 min more.</step>
+        </steps>
+    </recipe>
+    <recipe category="Main Course">
+        <title>Cavatappi w/Bacon \&amp; Veggies</title>
+        <ingredients>
+            <ingredient>8 oz. uncooked cavatappi;</ingredient>
+            <ingredient>4 slices chopped bacon;</ingredient>
+            <ingredient>2 tsp. olive oil;</ingredient>
+            <ingredient>1 cup onion;</ingredient>
+            <ingredient>1 tsp. bottled minced garlic;</ingredient>
+            <ingredient>1 med. zucchini;</ingredient>
+            <ingredient>1 cup corn kernals;</ingredient>
+            <ingredient>1 pt. grape tomatoes;</ingredient>
+            <ingredient>&frac12; cup shaved Parmigiano-Reggiano</ingredient>
+            <ingredient>&frac14; cup fresh basil;</ingredient>
+            <ingredient>&frac12; tsp. salt</ingredient>
+            <ingredient>&frac14; tsp. black pepper</ingredient>
+        </ingredients>
+        <steps>
+            <step>Cook pasta according to package</step>
+            <step>Cook bacon over med-high until crisp. Remove bacon w/ slotted spoon. Add to pan
+                \&amp; onion \&amp; garlic. Saut&eacute; 2 min. Add zuccini and cook 3 mins. or
+                until tomatoes burst.</step>
+            <step>Add pasta to mixture. Cook 1 min or until heated. Remove from heat.</step>
+            <step>Add &frac14; cup cheese, basil, salt and pepper. Toss and add remaining
+                cheese.</step>
+        </steps>
+    </recipe>
+    <recipe category="Cake">
+        <title>Apple Sauce Cake</title>
+        <image src="PXL_20250830_132228880_clipped_applesauce_cake">
+            <caption>Apple Sauce Cake</caption>
+        </image>
+        <ingredients>
+            <ingredient>&frac12; cup butter or margarine, softened</ingredient>
+            <ingredient>&frac34; cup honey </ingredient>
+            <ingredient>1 cup applesauce </ingredient>
+            <ingredient>&frac12; cup raisins </ingredient>
+            <ingredient>2 cups flour </ingredient>
+            <ingredient>&frac12; cup chopped walnuts </ingredient>
+            <ingredient>1 tsp Baking soda </ingredient>
+            <ingredient> 1 tsp Baking Powder</ingredient>
+            <ingredient> 1/2 tsp Cinnamon</ingredient>
+            <ingredient> 1/2 tsp. nutmeg</ingredient>
+            <ingredient> 1/4 tsp. cloves</ingredient>
+        </ingredients>
+        <steps>
+            <step> Preheat oven to 350 degrees</step>
+            <step>In large bowl of electric mixer, cream butter.</step>
+            <step>Continue to cream while adding honey in a fine stream.</step>
+            <step>Beat in applesauce.</step>
+            <step>In separate bowl, combine flour, baking soda, baking powder \&amp; spices.</step>
+            <step>Gradually stir into honey mixture until thoroughly mixed. Add raisins \&amp;
+                nuts.</step>
+            <step>Pour into 8"x8"pan bake about 40 minutes. Serve with raisin sauce.</step>
+        </steps>
+
+        <p>Raisin sauce</p>
+        <ingredients>
+            <ingredient>1 cup chopped raisans</ingredient>
+            <ingredient>1 1/2 cups water</ingredient>
+            <ingredient>1/2 cup honey</ingredient>
+            <ingredient>1 1/2 tbs. lemon juice</ingredient>
+        </ingredients>
+        <steps>
+            <step>Bring raisins and water to boil</step>
+            <step>Add honey</step>
+            <step>Simmer fo 15 minutes. Add lemon juice while still warm.</step>
+        </steps>
+
+    </recipe>
+
+    <recipe category="Pastry">
+        <title>Sunday Buns</title>
+        <comment>350 degrees</comment>
+        <ingredients>
+            <group instruction="mix">
+                <ingredient>1/3 c. shortening</ingredient>
+                <ingredient>1/3 c. Honey</ingredient>
+            </group>
+            <group instruction="Stir in dry ingredients alternately with milk.">
+                <ingredient>1 egg</ingredient>
+                <ingredient>1 1/2 cups flour</ingredient>
+                <ingredient>1 1/2 tsp. baking powder </ingredient>
+                <ingredient>1/2 tsp. salt </ingredient>
+                <ingredient>1/4 tsp. nutmeg </ingredient>
+                <ingredient>1/2 cup milk</ingredient>
+            </group>
+        </ingredients>
+
+        <steps>
+            <step>Stir in dry ingredients alternately with milk.</step>
+            <step>Fill 15 greased muffin tins 2/3 full.</step>
+            <step>Bake 20-25 min at 350 degrees. </step>
+            <step>While baking, melt 1/3 cup margarine in sauce pan.</step>
+            <step>In small bowl, mix 1/2 cup sugar \&amp; 1 tsp. cinnamon.</step>
+            <step>Immediately after baking, dip buns in melted margarine, then in cinnamon/sugar
+                mixture.</step>
+        </steps>
+    </recipe>
+
+    <recipe category="Main Course">
+        <title>Chicken Fiesta Cavatappi Casserole</title>
+        <ingredients>
+            <ingredient> 16 oz. package Price Chopper Cavatappi cooked according to the package
+                directions.</ingredient>
+            <ingredient> 1 tablespoon chili powder </ingredient>
+            <ingredient> 1 tablespoon oregano </ingredient>
+            <ingredient> 1/3 cup olive oil </ingredient>
+            <ingredient> 1 cup chicken broth</ingredient>
+            <ingredient> 1 1/2 cups heavy cream </ingredient>
+            <ingredient> 1/2 cup onions, diced</ingredient>
+            <ingredient>1 1/2 cups shredded cheddar cheese </ingredient>
+            <ingredient> 1 cup tomatoes, diced 1/4 cup Parmesan cheese </ingredient>
+            <ingredient> 1 cup zucchini, diced </ingredient>
+            <ingredient> Salt and pepper to taste </ingredient>
+            <ingredient> 1 lb. cooked chicken, diced </ingredient>
+        </ingredients>
+        <steps>
+            <step> Heat olive oil in a medium skillet.</step>
+            <step>Add onions and zucchini, cook 2 minutes.</step>
+            <step> Add tomatoes and chicken, cook 2 more minutes.</step>
+            <step> Add the spices and chicken broth then cook until half the broth has
+                reduced.</step>
+            <step>Mix in the heavy cream and cheddar cheese and bring to a simmer.</step>
+            <step>In a large bowl, mix the cooked cavatappi and the above mixture together until
+                evenly mixed and pour into a prepared casserole dish.</step>
+            <step>Top with Parmesan cheese and bake in a 350 degree oven for 8-10 minutes.</step>
+        </steps>
+        <comment>Serves 6 to 8</comment>
+    </recipe>
+    <recipe category="Cookie">
+        <title>Oil Cookies</title>
+        <ingredients>
+            <ingredient> 2/3 cup oil </ingredient>
+            <ingredient> &frac34; cups sugar </ingredient>
+            <ingredient> &frac12; tsp salt </ingredient>
+            <ingredient> 2 eggs </ingredient>
+            <ingredient> 2 &frac12; cups flour </ingredient>
+            <ingredient> 2 tsp baking soda </ingredient>
+            <ingredient> 1 tsp vanilla </ingredient>
+            <ingredient> chocolate chips </ingredient>
+            <ingredient> raisins and nuts may be added</ingredient>
+            <ingredient> also dry milk</ingredient>
+        </ingredients>
+        <steps>
+            <step>Put all ingredients in bowl, mix, drop</step>
+            <step>Bake at 400 degrees for 12 minutes</step>
+        </steps>
+    </recipe>
+    <recipe category="Main Course">
+        <metadata class="main">
+            <mods xmlns="http://www.loc.gov/mods/v3" version="3.3">
+                <titleInfo>
+                    <title>Squash Fritters</title>
+                </titleInfo>
+                <abstract>
+                    <p>Recipe clipped from Hometown Recipes, apparently in 2007. According to the
+                        contributer, Sue E. McCoy, &quot;With an abundance of garden vegetables, I
+                        have experimented with creative uses for zucchini and yellow squash. These
+                        fritters are a favorite with young and old." </p>
+                </abstract>
+            </mods>
+        </metadata>
+
+        <title>Squash Fritters</title>
+        <image src="PXL_20250830_131108710_squashFritters">
+            <caption>Squash Fritters</caption>
+        </image>
+        <ingredients>
+            <item>3 tablespoons vegetable oil, divided </item>
+            <item>1 egg, beaten </item>
+            <item>2/3 cup milk </item>
+            <item>&frac12; cup self-rising cornmeal </item>
+            <item>1 cup packed grated yellow squash or zucchini (about I medium) </item>
+            <item>2 tablespoons grated onion </item>
+            <item>2 tablespoons sour cream </item>
+            <item>2 tablespoons finely shredded Parmesan cheese </item>
+            <item>&frac14; teaspoon cayenne pepper </item>
+            <item>&frac12; teaspoon salt </item>
+            <item>¼ teaspoon black pepper Prepared salsa </item>
+        </ingredients>
+        <steps>
+            <step>Combine 2 tablespoons oil, egg, milk, cornmeal, squash, onion, sour cream, cheese,
+                cayenne, salt and black pepper; mix well. Add additional milk for a thinner
+                consistency or another tablespoon of cornmeal if batter is too runny.</step>
+            <step>Heat remaining oil in a large skillet over medium heat. Spoon &frac14; cup batter
+                per fritter into skillet. Cook until golden, about 4 minutes on first side and 2
+                minutes on second side. Repeat with remaining batter. Serve with salsa. Serves 4 as
+                an entrée; 8 as a side. </step>
+        </steps>
+    </recipe>
+    <recipe category="Cake">
+        <title>Johnny Cake</title>
+        <image src="PXL_20250830_130656883_clipped_JohnnyCake">
+            <caption>Johnny Cake</caption>
+        </image>
+        <ingredients>
+            <ingredient> 1 cup cornmeal </ingredient>
+            <ingredient> 1 cup flour </ingredient>
+            <ingredient> 4 tsp. baking powder </ingredient>
+            <item>&frac12; Tsp. salt </item>
+            <item>2 tbs. sugar </item>
+            <item>&frac12; cup dry milk </item>
+            <item>2 eggs </item>
+            <item>1 cup water or milk </item>
+            <item>&frac14; cup oil </item>
+        </ingredients>
+        <steps>
+            <step>400&degree; 25 min</step>
+        </steps>
+    </recipe>
+</recipes>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lutherbook xmlns:bibtex="http://bibtexml.sf.net/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:wtm="http://wtm.cornell.edu"
+    xmlns="http://wtm.cornell.edu">
+
+    <wtm:rights/>
+    <xhtml:a id="top"/>
+    <div class="flex-container">
+        <a href="https://photos.app.goo.gl/BnVDgxBExvbbpBFt8" target="_blank">
+            <image src="PXL_20250830_145140732.PANO_ely_lake_scaled">
+                <caption>Ely Lake, August, 2025</caption>
+            </image>
+        </a>
+    </div>
+
+    <wtm:tableofcontents/>
+
+    <xi:include href="luthermainmenu.xml"/>
+    <xhtml:a id="cottage_history"/>
+    <chapter title="Cottage History">
+        <xi:include href="../luthercottagehistory.xml"/>
+    </chapter>
+
+    <xhtml:a id="lot_history"/>
+    <xi:include href="luthermainmenu.xml"/>
+    <chapter title="Lot History" id="lot_history">
+        <xi:include href="../lutherlothistory.xml"/>
+    </chapter>
+    <!--xi:include href="../luthersettlers.xml"/-->
+    <xhtml:a id="recipes"/>
+    <xi:include href="luthermainmenu.xml"/>
+    <chapter title="Recipes">
+        <xi:include href="../lutherrecipes.xml"/>
+    </chapter>
+
+    <xhtml:a id="botanicalstudy"/>
+    <xi:include href="luthermainmenu.xml"/>
+    <chapter title="Botanical Study">
+        <xi:include href="../lutherbotantical.xml"/>
+    </chapter>
+
+    <xhtml:a id="footnotes"/>
+    <xi:include href="luthermainmenu.xml"/>
+    <wtm:footnotes> </wtm:footnotes>
+
+    <printindex/>
+
+</lutherbook>

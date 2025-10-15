@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lutherbook xmlns:bibtex="http://bibtexml.sf.net/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:wtm="http://wtm.cornell.edu"
+    xmlns="http://wtm.cornell.edu">
+
+    <image src="PXL_20250830_145140732.PANO_ely_lake_scaled">
+        <caption>Ely Lake, August, 2025</caption>
+    </image>
+
+    <xi:include href="luthercottagehistory.xml"/>
+    <xi:include href="lutherlothistory.xml"/>
+    <xi:include href="luthersettlers.xml"/>
+    <xi:include href="lutherrecipes.xml"/>
+    <xi:include href="lutherbotantical.xml"/>
+    <div id="index"/>
+</lutherbook>
