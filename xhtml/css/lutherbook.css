@@ -1,0 +1,243 @@
+
+body {
+
+    /* Resets browser-default margins to prevent inconsistent spacing */
+    margin: 0;
+    
+    margin: 10px 30px 20px 40px; /* Top: 10px, Right: 30px, Bottom: 20px, Left: 40px */
+    
+    width:75%;
+
+    /* Sets the default font properties for the entire document */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%; /* Corresponds to 16px by default for accessibility */
+
+    /* Establishes the base line height for all text elements */
+    line-height: 1.65;
+
+    /* Defines the default text and background color */
+    color: #333;
+    background-color: #fff;
+
+    /* Uses a minimum height of 100vh to ensure the body fills the entire viewport,
+     even if the content is short. */
+    min-height: 100vh;
+}
+
+/* Optional: Ensures the root `<html>` element is also 100% height,
+   which is needed for `min-height: 100vh` on the `body` to work correctly. */
+html {
+    height: 100%;
+}
+
+h1 {
+    color: #0056b3;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.bibliography {
+    font-family: sans-serif;
+    line-height: 1.6;
+    display: inline-block; /* Allows horizontal margins to be applied */
+    margin-right: 10px; /* Adds 10 pixels of space to the right of the span */
+}
+
+.bib_author {
+    font-weight: bold;
+}
+
+.bib_title {
+    font-style: italic;
+}
+
+.journal,
+.booktitle {
+    color: #555;
+}
+
+img {
+    max-width: 100%;
+    height: auto; /* Maintains aspect ratio */
+}
+
+caption {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+    text-align: center; /* Aligns text within the caption */
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+.tiptext {
+    color: #069;
+    cursor: pointer;
+}
+
+.description {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    width: 400px;
+    height: 400px;
+}
+
+img.sketch {
+    max-width: 400px;
+    height: auto; /* Maintains aspect ratio */
+}
+
+p.title {
+    font-weight: bold; /* Makes the text bold */
+    font-size: 2em; /* Makes the text larger (2 times the default font size) */
+    /* You can use other units like 'px', 'rem', or percentages for font-size */
+}
+
+details,
+summary {
+    display: inline;
+    vertical-align: super;
+    font-size: 0.75rem;
+    padding: 0 0.25rem;
+}
+
+.footnote_number {
+    display: inline;
+    vertical-align: super;
+    font-size: 0.75rem;
+    padding: 0 0.25rem;
+}
+
+summary {
+    cursor: pointer;
+}
+.details-content {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 90%;
+    padding: 1rem;
+    font-size: 1rem;
+    background: lightyellow;
+    box-shadow: 0 0 100px black;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+/* Details don't like being inside a p */
+.fake-p {
+    margin: 0 0 1rem 0;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 65vh; /* Example: full viewport height */
+}
+
+span.first {
+    font-variant: small-caps;
+}
+
+p.first::first-letter {
+    font-size: 3em; /* Make the first letter three times larger */
+    font-weight: bold; /* Make it bold */
+    color: #8A2BE2; /* Give it a specific color (Blue Violet) */
+    float: left; /* Float it to the left to create a drop cap effect */
+    margin-right: 0.1em; /* Add some space to its right */
+    line-height: 1; /* Adjust line height to prevent extra space */
+}
+
+.mouseOver {
+    display: inline;
+    position: relative;
+}
+
+.mouseOver img {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 1em;
+    opacity: 0;
+    pointer-events: none;
+    transition-duration: 800ms;
+}
+
+.mouseOver:hover img {
+    opacity: 1;
+    transition-duration: 400ms;
+}
+
+p.abstract {
+    text-align: center;
+     font-weight: bold;
+}
+
+ .abstract {
+ width: 50%; /* Or any specific width */
+        margin: 0 auto;
+       text-align: justify;
+    }
+    
+    #floatMenu {
+    position:absolute;
+    top:150px;
+    left:50%;
+    margin-left:500px;
+    width:200px;
+}
+#floatMenu ul {
+    margin-bottom:20px;
+}
+#floatMenu ul li a {
+    display:block;
+    border:1px solid #999;
+    background-color:#222;
+    border-left:6px solid #999;
+    text-decoration:none;
+    color:#ccc;
+    padding:5px 5px 5px 25px;
+}
+
+div.group {
+    padding-left: 40px; /* Indents the content within the div by 40 pixels from the left */
+  }
